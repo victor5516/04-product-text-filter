@@ -1,0 +1,17 @@
+[
+    {
+        "image": "https://cdn.mos.cms.futurecdn.net/2MYLPMnLxZENemQJ7D43mc.jpg",
+        "title": "Iphone 13",
+        "price": 500
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1605455699691-abb8c7c8d34a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFjYm9vayUyMHByb3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "title": "Macbook",
+        "price": 1000
+    },
+    {
+        "image": "https://cdn.vox-cdn.com/thumbor/nEmwnn3PJyXqoKcr37D3T1o8AiQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21991383/vpavic_4261_20201023_0058.jpg",
+        "title": "PlayStation 5",
+        "price": 2000
+    }
+]
